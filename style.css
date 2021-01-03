@@ -1,0 +1,31 @@
+body
+{
+    font-family: 'Handlee', cursive;
+
+}
+ 
+.font-colour
+{
+color: orange;
+}
+
+h1
+{
+    font-size: 50px;
+}
+h3
+{
+    font-size: 30px;
+}
+.half
+{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+
+}
+.half img
+{
+    width: 100%;
+}
