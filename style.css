@@ -50,3 +50,37 @@ section
 
     border: ;
 }
+.iconbd
+{
+    width: 15%;
+    float: left;
+   
+
+    
+}
+.ins
+{
+    width: 15%;
+    float: left;
+}
+
+.tiw
+{
+    width: 15%;
+    float: left;
+}
+.email
+{
+    width: 15%;
+    float: left;
+}
+
+.git
+{
+    width: 15%;
+    float: left;
+}
+h6{
+    text-align: center;
+    nav-down: auto;
+}
