@@ -1,6 +1,8 @@
 body
 {
     font-family: 'Handlee', cursive;
+    margin: 0%;
+    padding: 0%;
 
 }
  
@@ -28,4 +30,13 @@ h3
 .half img
 {
     width: 100%;
+}
+.backround
+{
+    background-image: url( img/top-banner.png );
+    background-repeat: no-repeat;
+}
+section
+{
+    height: 500px;
 }
