@@ -39,6 +39,7 @@ h3
 section
 {
     height: 500px;
+    padding-bottom: 150px;
 }
 .button
 {
@@ -90,6 +91,76 @@ h6{
     background-position: right;
     background-size: 7%;
 }
-.a{
-    width: 100%;
+.ex
+{
+box-shadow: 10px 10px 40px gray;
+height: 50%;
+border-radius: 5px;
+background-color: white;
 }
+.expereince
+{
+    background-image: url( img/exp-bg.png );
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size:7%;
+}
+#Full-Stack 
+{
+    border-left: 7px solid ;
+    border-image: linear-gradient( 180deg, lightsalmon,tomato ) ;
+    border-image-slice: 1;
+}
+#Baby-Web
+{
+    border-left: 7px solid ;
+    border-image: linear-gradient( 180deg, blue,cyan ) ;
+    border-image-slice: 1;
+}
+    
+    {
+        text-align: ;
+    }
+    #text-aling
+    {
+        text-align: center;
+        font-size: 80px;
+    }
+    footer p
+    {
+        text-align: center;
+    }
+    
+    #Full img
+    {
+        width: 15%;
+        
+
+    }
+    #Baby img
+    {       
+        width: 50%;
+        float: inline-start;
+    }
+    h1
+    {
+        text-align: center;
+    }
+    #Full {border-left: 7px solid ;
+        border-image: linear-gradient( 180deg, lightsalmon,tomato ) ;
+        border-image-slice: 1;
+
+    }
+    .ey{
+        
+box-shadow: 10px 10px 40px gray;
+height: 50%;
+border-radius: 5px;
+background-color: white;
+    }
+    #Baby
+    {
+        border-left: 7px solid ;
+        border-image: linear-gradient( 180deg, blue,cyan ) ;
+        border-image-slice: 1;
+    }
